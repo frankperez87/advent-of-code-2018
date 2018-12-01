@@ -1,0 +1,19 @@
+{
+    "name": "frankperez87/advent-of-code",
+    "description": "Advent Of Code - PHP 2018 Answers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank Perez",
+            "email": "frank@fjp.io"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
